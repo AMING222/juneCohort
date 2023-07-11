@@ -3,7 +3,7 @@
     margin: auto;
     border: 7.5px solid red;
     text-align: center;
-    background-color: antiquewhite;
+    background-color: whitesmoke;
     border-radius: 20px;
 }
 
@@ -26,9 +26,9 @@ p{
 }
 
 ol{
-    padding: 0;
     list-style: none;
     display: flex;
+    padding: 0;
     justify-content: center;
 }
 
