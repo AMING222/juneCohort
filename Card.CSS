@@ -1,0 +1,47 @@
+.Container{
+    width: 30%;
+    margin: auto;
+    border: 7.5px solid red;
+    text-align: center;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+
+.Container img{
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+h5{
+    color: red;
+}
+
+h6{
+    color: red;
+}
+
+p{
+    color: red;
+}
+
+ol{
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+li{
+    display: block;
+    padding: 10px 15px;
+}
+
+li a{
+    text-decoration: none;
+     color: red;
+}
+
+li a:hover{
+    border-bottom: 1px solid salmon;
+}
